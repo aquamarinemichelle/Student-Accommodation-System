@@ -13,3 +13,7 @@ Each page supports full CRUD operations (Create, Read, Update, Delete).
 ## Running the System
 here is the link for live website : https://student-accommodation-system.free.nf/
 
+## Admin details
+username : admin
+password : admin123
+
